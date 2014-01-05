@@ -1,8 +1,9 @@
 {
-	"name": "Mail",
-	"description": "IMAP Mail-Client",
-	"version": "1.0.0",
-	"dependencies": {
-		"imap": "~0.8.7"
-	}
+  "name": "Mail",
+  "description": "IMAP Mail-Client",
+  "version": "1.0.0",
+  "dependencies": {
+    "imap": "~0.8.7",
+    "ws": "~0.4.31"
+  }
 }
